@@ -3,7 +3,7 @@ using System.ComponentModel;
 
 namespace BulkyWebRazor.Models
 {
-    public class Category
+    public class CategoryB
     {
         [Key]
         public int Id { get; set; }

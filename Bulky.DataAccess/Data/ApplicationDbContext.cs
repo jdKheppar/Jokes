@@ -1,4 +1,5 @@
-﻿using Jokes.Models;
+﻿
+using Jokes.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace Jokes.Data

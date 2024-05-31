@@ -1,8 +1,10 @@
-﻿using Jokes.Data;
-using Jokes.Models;
+﻿
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
 using System.Linq;
+using Jokes.Models;
+using Jokes.Data;
 
 namespace Jokes.Controllers
 {
