@@ -1,0 +1,1 @@
+This is a simple CRUD application in .NET. It has two main project BulkyWebRazor and BulkyMVC. BulkyWebRazor is a CRUD application using Razor Pages and BulkyWebRazor is a MVC application using ASP.NET Core. The purpose of creating this repository is to get comfortable with .NET framework concepts like MVC, Razor Pages, Entity Framework and Repository Pattern etc.
